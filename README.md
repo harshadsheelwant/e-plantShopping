@@ -1,1 +1,1 @@
-# coding-project-template
+# Project title: e-plantShopping
